@@ -12,3 +12,7 @@ Após esses passos aplicação estara disponivel em localhost:3333.
 
 #### OBS:
 Para excluir um registro basta colocar o ID do registro na caixa de texto e clicar na caixa excluir.
+
+##### Resultado
+
+![CRUD-img](https://user-images.githubusercontent.com/38704936/78515046-c0ad5a80-778a-11ea-9035-fbc2d1dd3b15.PNG)
